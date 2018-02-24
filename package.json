@@ -1,0 +1,9 @@
+{
+  "name": "extract-lookup",
+  "version": "1.0.0",
+  "description": "Script to transform a folder of .xlsx files to postgres tables",
+  "main": "index.js",
+  "repository": "https://github.com/Alexis-De-La-Torre/extract-lookup.git",
+  "author": "Alexis De La Torre <contacto@alexisdelatorre.com>",
+  "license": "MIT"
+}
