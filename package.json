@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Alexis-De-La-Torre/extract-lookup.git",
   "author": "Alexis De La Torre <contacto@alexisdelatorre.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fluture": "^8.0.2",
+    "node-xlsx": "^0.11.2",
+    "postgres-future": "https://github.com/Alexis-De-La-Torre/postgres-future.git",
+    "ramda": "^0.25.0"
+  }
 }
